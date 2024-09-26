@@ -1,9 +1,17 @@
-function divide (a,b) {
-  return a/b
-}
-function square(a) {
-    return Math.pow(a,2);
-}
-function add(a,b) {
-    return a+b;
-}
+
+const divide = function() {
+   
+    return 2000 / 100;
+};
+
+const square = (num) => {
+    
+    return num * num;
+};
+
+
+const add = (a, b) => {
+  
+    return a + b;
+};
+
